@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust_datastructures"
+name = "rust_dsa"
 version = "0.1.0"
